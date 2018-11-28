@@ -1,0 +1,1057 @@
+1505312463270	geckodriver	INFO	Listening on 127.0.0.1:50784
+1505312465314	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505312469220	Marionette	INFO	Listening on port 50790
+1505312469443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+1505312520257	Marionette	INFO	Ceased listening
+s thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1505312228194	Marionette	INFO	Ceased listening
+om to C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\easyscreenshot@mozillaonline.com.xpi
+1505178266505	addons.xpi	INFO	Mapping firebug@software.joehewitt.com to C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\firebug@software.joehewitt.com.xpi
+1505178266505	addons.xpi	INFO	Mapping FireXPath@pierre.tholence.com to C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\FireXPath@pierre.tholence.com.xpi
+1505178266506	addons.xpi	INFO	Mapping seleniumbuilder@sebuilder.com to C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\seleniumbuilder@sebuilder.com
+1505178266506	addons.xpi	INFO	Mapping tabtweak@mozillaonline.com to C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\tabtweak@mozillaonline.com.xpi
+1505178266506	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1505178266507	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1505178266507	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1505178266508	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1505178266508	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1505178266508	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1505178266509	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1505178266509	addons.xpi	DEBUG	checkForChanges
+1505178266510	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1505178266510	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"cehomepage@mozillaonline.com":{"d":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\nce5v0dx.default\\extensions\\cehomepage@mozillaonline.com","e":true,"v":"1.55","st":1503448175330,"mt":1503414926696},"cpmanager@mozillaonline.com":{"d":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\nce5v0dx.default\\extensions\\cpmanager@mozillaonline.com.xpi","e":true,"v":"2.55","st":1503448173264},"easyscreenshot@mozillaonline.com":{"d":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\nce5v0dx.default\\extensions\\easyscreenshot@mozillaonline.com.xpi","e":true,"v":"2.55.3","st":1503414928613},"firebug@software.joehewitt.com":{"d":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\nce5v0dx.default\\extensions\\firebug@software.joehewitt.com.xpi","e":true,"v":"2.0.19","st":1503449317509},"FireXPath@pierre.tholence.com":{"d":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\nce5v0dx.default\\extensions\\FireXPath@pierre.tholence.com.xpi","e":true,"v":"0.9.7.1.1-signed.1-signed","st":1503449359485},"seleniumbuilder@sebuilder.com":{"d":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\nce5v0dx.default\\extensions\\seleniumbuilder@sebuilder.com","e":true,"v":"3.0.7","st":1503449359463,"mt":1503449345745},"tabtweak@mozillaonline.com":{"d":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\nce5v0dx.default\\extensions\\tabtweak@mozillaonline.com.xpi","e":true,"v":"4.55","st":1503414652773}},"app-system-defaults":{"aushelper@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","e":true,"v":"2.0","st":1503413568456},"e10srollout@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","e":true,"v":"1.50","st":1503413568450},"firefox@getpocket.com":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","e":true,"v":"1.0.5","st":1503413568444},"screenshots@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","e":true,"v":"6.6.0","st":1503413568512},"webcompat@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","e":true,"v":"1.1","st":1503413568435}},"winreg-app-user":{"dict@www.youdao.com":{"d":"D:\\Program Files\\Youdao\\Dict\\stable\\extensions\\firefox","e":false,"v":"1.81","st":1498700989663,"mt":1498700986519}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","e":true,"v":"54.0.1","st":1503413568462}}}
+1505178266511	addons.xpi	DEBUG	getModTime: Recursive scan of cehomepage@mozillaonline.com
+1505178266556	addons.xpi	DEBUG	Changed add-on cehomepage@mozillaonline.com in app-profile
+1505178266556	addons.xpi	DEBUG	getModTime: Recursive scan of cpmanager@mozillaonline.com
+1505178266557	addons.xpi	DEBUG	Changed add-on cpmanager@mozillaonline.com in app-profile
+1505178266557	addons.xpi	DEBUG	getModTime: Recursive scan of easyscreenshot@mozillaonline.com
+1505178266558	addons.xpi	DEBUG	Changed add-on easyscreenshot@mozillaonline.com in app-profile
+1505178266558	addons.xpi	DEBUG	getModTime: Recursive scan of firebug@software.joehewitt.com
+1505178266559	addons.xpi	DEBUG	Changed add-on firebug@software.joehewitt.com in app-profile
+1505178266559	addons.xpi	DEBUG	getModTime: Recursive scan of FireXPath@pierre.tholence.com
+1505178266559	addons.xpi	DEBUG	Changed add-on FireXPath@pierre.tholence.com in app-profile
+1505178266559	addons.xpi	DEBUG	getModTime: Recursive scan of seleniumbuilder@sebuilder.com
+1505178266629	addons.xpi	DEBUG	Changed add-on seleniumbuilder@sebuilder.com in app-profile
+1505178266629	addons.xpi	DEBUG	getModTime: Recursive scan of tabtweak@mozillaonline.com
+1505178266629	addons.xpi	DEBUG	Changed add-on tabtweak@mozillaonline.com in app-profile
+1505178266630	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1505178266630	addons.xpi	DEBUG	Changed add-on aushelper@mozilla.org in app-system-defaults
+1505178266630	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1505178266631	addons.xpi	DEBUG	Changed add-on e10srollout@mozilla.org in app-system-defaults
+1505178266631	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1505178266631	addons.xpi	DEBUG	Changed add-on firefox@getpocket.com in app-system-defaults
+1505178266631	addons.xpi	DEBUG	getModTime: Recursive scan of screenshots@mozilla.org
+1505178266632	addons.xpi	DEBUG	Changed add-on screenshots@mozilla.org in app-system-defaults
+1505178266632	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1505178266632	addons.xpi	DEBUG	Changed add-on webcompat@mozilla.org in app-system-defaults
+1505178266633	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1505178266633	addons.xpi	DEBUG	Changed add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1505178266633	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"cehomepage@mozillaonline.com":{"d":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\cehomepage@mozillaonline.com","e":true,"v":"1.55","st":1505178266023,"mt":1505178265946},"cpmanager@mozillaonline.com":{"d":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\cpmanager@mozillaonline.com.xpi","e":true,"v":"2.55","st":1505178265923},"easyscreenshot@mozillaonline.com":{"d":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\easyscreenshot@mozillaonline.com.xpi","e":true,"v":"2.55.3","st":1505178265924},"firebug@software.joehewitt.com":{"d":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\firebug@software.joehewitt.com.xpi","e":true,"v":"2.0.19","st":1505178265942},"FireXPath@pierre.tholence.com":{"d":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\FireXPath@pierre.tholence.com.xpi","e":true,"v":"0.9.7.1.1-signed.1-signed","st":1505178265943},"seleniumbuilder@sebuilder.com":{"d":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\seleniumbuilder@sebuilder.com","e":true,"v":"3.0.7","st":1505178266143,"mt":1505178266025},"tabtweak@mozillaonline.com":{"d":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\tabtweak@mozillaonline.com.xpi","e":true,"v":"4.55","st":1505178265944}},"app-system-defaults":{"aushelper@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","e":true,"v":"2.0","st":1503413568456},"e10srollout@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","e":true,"v":"1.50","st":1503413568450},"firefox@getpocket.com":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","e":true,"v":"1.0.5","st":1503413568444},"screenshots@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","e":true,"v":"6.6.0","st":1503413568512},"webcompat@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","e":true,"v":"1.1","st":1503413568435}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","e":true,"v":"54.0.1","st":1503413568462}}}
+1505178266643	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions.json
+1505178266647	addons.xpi-utils	DEBUG	Successfully read XPI database
+1505178266648	addons.xpi-utils	DEBUG	Add-on tabtweak@mozillaonline.com modified in app-profile
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1505178266666	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178266666	DeferredSave.extensions.json	DEBUG	Save changes
+1505178266667	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178266668	DeferredSave.extensions.json	DEBUG	Save changes
+1505178266668	addons.xpi-utils	DEBUG	Add-on easyscreenshot@mozillaonline.com modified in app-profile
+1505178266715	DeferredSave.extensions.json	DEBUG	Starting timer
+1505178266747	DeferredSave.extensions.json	DEBUG	Starting write
+1505178266793	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178266793	DeferredSave.extensions.json	DEBUG	Save changes
+1505178266793	DeferredSave.extensions.json	DEBUG	Data changed while write in progress
+1505178266794	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178266794	DeferredSave.extensions.json	DEBUG	Save changes
+1505178266794	addons.xpi-utils	DEBUG	Add-on cehomepage@mozillaonline.com modified in app-profile
+1505178266860	DeferredSave.extensions.json	DEBUG	Write succeeded
+1505178266860	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1505178266860	DeferredSave.extensions.json	DEBUG	Starting timer
+1505178266882	DeferredSave.extensions.json	DEBUG	Starting write
+1505178266886	DeferredSave.extensions.json	DEBUG	Write succeeded
+1505178266909	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178266909	DeferredSave.extensions.json	DEBUG	Save changes
+1505178266910	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178266910	DeferredSave.extensions.json	DEBUG	Save changes
+1505178266910	addons.xpi-utils	DEBUG	Add-on cpmanager@mozillaonline.com modified in app-profile
+1505178266913	DeferredSave.extensions.json	DEBUG	Starting timer
+1505178266925	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178266925	DeferredSave.extensions.json	DEBUG	Save changes
+1505178266925	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178266925	DeferredSave.extensions.json	DEBUG	Save changes
+1505178266925	addons.xpi-utils	DEBUG	Add-on firebug@software.joehewitt.com modified in app-profile
+1505178266937	DeferredSave.extensions.json	DEBUG	Starting write
+1505178266941	DeferredSave.extensions.json	DEBUG	Write succeeded
+1505178267015	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267015	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267015	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267016	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267016	addons.xpi-utils	DEBUG	Add-on seleniumbuilder@sebuilder.com modified in app-profile
+1505178267018	DeferredSave.extensions.json	DEBUG	Starting timer
+1505178267084	DeferredSave.extensions.json	DEBUG	Starting write
+1505178267090	DeferredSave.extensions.json	DEBUG	Write succeeded
+1505178267209	addons.xpi	DEBUG	Add-on FireXPath@pierre.tholence.com blocks e10s rollout.
+1505178267209	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267210	addons.xpi	DEBUG	Add-on FireXPath@pierre.tholence.com blocks e10s rollout.
+1505178267210	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267210	addons.xpi-utils	DEBUG	Add-on FireXPath@pierre.tholence.com modified in app-profile
+1505178267213	DeferredSave.extensions.json	DEBUG	Starting timer
+1505178267218	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267218	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267219	addons.xpi-utils	DEBUG	Add-on dict@www.youdao.com removed from winreg-app-user
+1505178267220	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267220	addons.manager	DEBUG	Registering startup change 'changed' for tabtweak@mozillaonline.com
+1505178267221	addons.xpi-utils	DEBUG	Make addon app-profile:tabtweak@mozillaonline.com visible
+1505178267221	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267221	addons.manager	DEBUG	Registering startup change 'changed' for easyscreenshot@mozillaonline.com
+1505178267227	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\nce5v0dx.default\extensions\easyscreenshot@mozillaonline.com.xpi
+1505178267231	addons.xpi	DEBUG	Calling bootstrap method uninstall on easyscreenshot@mozillaonline.com version 2.55.3
+1505178267232	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\easyscreenshot@mozillaonline.com.xpi
+1505178267235	addons.xpi	DEBUG	Calling bootstrap method install on easyscreenshot@mozillaonline.com version 2.55.3
+1505178267235	addons.xpi-utils	DEBUG	Make addon app-profile:easyscreenshot@mozillaonline.com visible
+1505178267236	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267236	addons.manager	DEBUG	Registering startup change 'changed' for cehomepage@mozillaonline.com
+1505178267236	addons.xpi-utils	DEBUG	Make addon app-profile:cehomepage@mozillaonline.com visible
+1505178267237	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267237	addons.manager	DEBUG	Registering startup change 'changed' for cpmanager@mozillaonline.com
+1505178267237	addons.xpi-utils	DEBUG	Make addon app-profile:cpmanager@mozillaonline.com visible
+1505178267238	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267238	addons.manager	DEBUG	Registering startup change 'changed' for firebug@software.joehewitt.com
+1505178267239	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\nce5v0dx.default\extensions\firebug@software.joehewitt.com.xpi
+1505178267242	addons.xpi	DEBUG	Calling bootstrap method uninstall on firebug@software.joehewitt.com version 2.0.19
+1505178267243	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\firebug@software.joehewitt.com.xpi
+1505178267246	addons.xpi	DEBUG	Calling bootstrap method install on firebug@software.joehewitt.com version 2.0.19
+1505178267246	addons.xpi-utils	DEBUG	Make addon app-profile:firebug@software.joehewitt.com visible
+1505178267246	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267247	addons.manager	DEBUG	Registering startup change 'changed' for seleniumbuilder@sebuilder.com
+1505178267247	addons.xpi-utils	DEBUG	Make addon app-profile:seleniumbuilder@sebuilder.com visible
+1505178267247	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267248	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267248	addons.manager	DEBUG	Registering startup change 'changed' for FireXPath@pierre.tholence.com
+1505178267248	addons.xpi-utils	DEBUG	Make addon app-profile:FireXPath@pierre.tholence.com visible
+1505178267248	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267248	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267249	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1505178267249	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267249	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267249	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1505178267249	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267250	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267250	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1505178267250	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267250	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267250	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1505178267251	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267251	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267251	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1505178267251	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267251	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267251	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1505178267252	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267252	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267252	addons.manager	DEBUG	Registering startup change 'uninstalled' for dict@www.youdao.com
+1505178267252	addons.xpi	DEBUG	Updating XPIState for {"id":"tabtweak@mozillaonline.com","syncGUID":"{d671f420-3e40-402e-a8b7-332e603a1516}","location":"app-profile","version":"4.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/tabtweak/update.rdf?version=%ITEM_VERSION%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAvclCQ8nXMVB+UZpw2bLa7Qep6UO1YV6quUpw0RBDQgh5BMX6d4VaW/ZwMts7dFRA/7+yfjr3DTG036ldlRdnho6EztgDZKpLuU5tEORc9JfVspqb1Yw7ePRrKuc0vPyq1+2f1eEuXmikK3DGImd2lL9AoNYwHj7/+ERhntRQsQIDAQAB","optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png","64":"icon64.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Tab Tweak","description":"Tweak tab browsing by setting default behaviors.","creator":"Mozilla Online Limited","homepageURL":"http://firefox.com.cn","contributors":["Rui You"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\tabtweak@mozillaonline.com.xpi","installDate":1503413423706,"updateDate":1505178265944,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":21717,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[{"locales":["zh-CN"],"name":"标签页优化","description":"设置打开链接和关闭标签的默认行为，方便使用。","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Rui You"]}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"35.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267252	addons.xpi	DEBUG	Updating XPIState for {"id":"easyscreenshot@mozillaonline.com","syncGUID":"{23cad8cf-437e-40ec-81bb-af7df429e64d}","location":"app-profile","version":"2.55.3","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png","64":"icon64.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Easy Screenshot","description":"You can capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file.","creator":"Mozilla Online","homepageURL":"http://www.firefox.com.cn/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\easyscreenshot@mozillaonline.com.xpi","installDate":1503413423693,"updateDate":1505178265924,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":172562,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"网页截图","description":"方便的截图工具，支持任意选定区域截图、全网页截图等多种截图方式，并提供必要的图片编辑功能。","creator":"Mozilla Online","homepageURL":"http://www.firefox.com.cn/"},{"locales":["zh-TW"],"name":"網頁截圖","description":"方便的截圖工具，支持任意選定區域截圖、全網頁截圖等多種截圖方式，并提供必要的圖片編輯功能。","creator":"Mozilla Online","homepageURL":null}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":true,"mpcOptedOut":false,"userPermissions":null}
+1505178267253	addons.xpi	DEBUG	Updating XPIState for {"id":"cehomepage@mozillaonline.com","syncGUID":"{f741c7e8-ea42-4653-ae1f-8c5e7e6df648}","location":"app-profile","version":"1.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/cehomepage-iii/update.rdf?version=%ITEM_VERSION%&pt=%CEHP_PREF_TRACKING%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCd77P/ko6LTPMWcIjA5+0AJ7Y2w1CA31UYNTLA6OMwc9kcvO407SrE649A1ZUOi8bDPvJ6/KqVU9zPmv1XY1SjpEF8RlXP5SQ4KXirH4wnBk94cklYJTeDVuGOvCZS4KNazsjibERhRE7oGxg3X+rw+Ifu14AmAqXm4lyMrYIt/QIDAQAB","optionsURL":"chrome://ntab/content/options.xul","optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox Homepage","description":"Customizied Home Page for Firefox","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Leding Li","Ray Cheung","Xuan Xie","jiangwei1212@gmail.com","Wennan Zhu","Amax Guan"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\cehomepage@mozillaonline.com","installDate":1503413423481,"updateDate":1505178266023,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":784501,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"火狐主页","description":"火狐定制主页，包括最近访问页面、最常访问页面以及新标签页等","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/"}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267253	addons.xpi	DEBUG	Updating XPIState for {"id":"cpmanager@mozillaonline.com","syncGUID":"{f8258f83-076b-4a93-a7cd-7eecf20c5288}","location":"app-profile","version":"2.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/cpmanager/update.rdf?version=%ITEM_VERSION%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2zWwTHIR23xreMABqMJXj1YrFowjiaBieTNqC2bE9PImSaMBxmYqrQ/UryquunGB0LJVE6tzzdioK9KFp+8ZO4eZL0fpxA9I+8mp+g3MTwqMVZD5ma3qwEGDngATaJwlcWY5xmrWcWNUgogP7n6JYuw0Giuc7crDNK3n1/nCbhwIDAQAB","optionsURL":"chrome://cmsafeflag/content/options.xul","optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Addons Manager","description":"To manage the addons package in Firefox.","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Conchshell","Ray Cheung","Xuan Xie","Jiao Feng","Rui You"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\cpmanager@mozillaonline.com.xpi","installDate":1503413423506,"updateDate":1505178265923,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":492668,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"附加组件管理器","description":"用来管理火狐的附加组件系统。","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/"}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267253	addons.xpi	DEBUG	Updating XPIState for {"id":"firebug@software.joehewitt.com","syncGUID":"{caa954bb-7281-4904-8cd2-f583ab3d50cc}","location":"app-profile","version":"2.0.19","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":"chrome://firebug/skin/firebugBig.png","icon64URL":null,"defaultLocale":{"name":"Firebug","description":"Web Development Evolved. Firebug is free and open source software distributed under the BSD License.","creator":"Joe Hewitt","homepageURL":"http://www.getfirebug.com/","translators":["Leszek(teo)Zyczkowski (pl-PL)","markh (nl)","peter3 (sv-SE)","AlleyKat (da-DK)","Hector Zhao, lovelywcm (zh-CN)","Lukas Kucharczyk, Michal Kec (cs-CZ)","Team erweiterungen.de, ReinekeFux, Benedikt Langens, Sebastian Zartner (de-DE)","l0stintranslation, gonzalopirobutirro, Luigi Grilli (it-IT)","alexxed (ro-RO)","Nicolas Martin, Franck Marcia (fr-FR)","gLes (hu-HU)","Xavi Ivars - Softcatala (ca)","gezmen (tr-TR)","eternoendless (es-AR)","Dark Preacher (ru)","Tiago Oliveira, Diego de Carvalho Zimmermann, Alexandre Rapaki (pt-BR)","Juan Botias, Alvaro G. Vicario (es-ES)","Andriy Zhouck (uk-UA)","Hisateru Tanaka, k2jp (ja-JP)","Mohsen Shadroo (fa-IR)","Eduard Babayan (hy-AM)","Helder Magalhaes (pt-PT)","Tomaz Macus (sl-SI)","Stoyan Stefanov, Alexander Shopov (bg)","Kristjan Bjarni Guomundsson (is-IS)","NGUYEN Manh Hung (vi-VN)","Bwah (hr-HR)","Sonickydon (el)","David Gonzales (es)","DakSrbija (sr)","bootleq (zh-TW)","Asier Iturralde Sarasola, Julen Irazoki Oteiza (eu)"],"contributors":["John J. Barton (IBM Almaden)","Jan Odvarko (Mozilla Corp.)","Max Stepanov (Aptana Inc.)","Rob Campbell (Mozilla Corp.)","Hans Hillen (Paciello Group, Mozilla)","Curtis Bartley (Mozilla Corp.)","Mike Collins (IBM Almaden)","Kevin Decker","Mike Ratcliffe (Mozilla Corp.)","Hernan Rodriguez Colmeiro","Austin Andrews","Christoph Dorn","Steven Roussey (Illuminations for Developers)","Sebastian Zartner","Harutyun Amirjanyan","Simon Lindholm","Stampolidis Anastasios","Joe Walker (Mozilla Corp.)","Vladimir Zhuravlev","Farshid Beheshti","Leon Sorokin","Florent Fayolle","Hector Zhao","Bharath Thiruveedula","Nathan Mische","Belakhdar Abdeldjalil","Jakob Kaltenbrunner"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\firebug@software.joehewitt.com.xpi","installDate":1503449317509,"updateDate":1505178265942,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":9681994,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"30.0a1","maxVersion":"54.0"},{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"30.0a1","maxVersion":"54.0"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267253	addons.xpi	DEBUG	Updating XPIState for {"id":"seleniumbuilder@sebuilder.com","syncGUID":"{dde4af7b-2ad5-4b42-9c6c-45078f142169}","location":"app-profile","version":"3.0.7","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":"chrome://seleniumbuilder3/content/html/img/builder-logo.png","icon64URL":null,"defaultLocale":{"name":"Selenium Builder","description":"Create automated cross-browser functional tests easily and quickly.","creator":null,"homepageURL":"http://www.sebuilder.com","developers":["David Stark","Sauce Labs"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\seleniumbuilder@sebuilder.com","installDate":1503449359463,"updateDate":1505178266143,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":1455812,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0","maxVersion":"44.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267253	addons.xpi	DEBUG	Updating XPIState for {"id":"FireXPath@pierre.tholence.com","syncGUID":"{5efd9529-a99c-48a6-b1a2-4b286e00eaae}","location":"app-profile","version":"0.9.7.1.1-signed.1-signed","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":"chrome://firepath/content/FirePath.png","icon64URL":null,"defaultLocale":{"name":"FirePath","description":"FirePath is a Firebug extension that adds a development tool to edit, inspect and generate XPath 1.0 expressions, CSS 3 selectors and JQuery selectors.","creator":"Pierre Tholence","homepageURL":null,"contributors":["David Rees"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.D0oWnkXXcLDw\\extensions\\FireXPath@pierre.tholence.com.xpi","installDate":1503449359485,"updateDate":1505178265943,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":168435,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"34.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267253	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{2fccebeb-4cbe-46c4-b70d-c8d0341ce7b9}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","installDate":1495103351929,"updateDate":1503413568456,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267253	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{38742583-27d3-4e2b-87e3-b8b8f39809c0}","location":"app-system-defaults","version":"1.50","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","installDate":1495103351931,"updateDate":1503413568450,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":12519,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267253	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{dc069916-9d6d-4b1e-ab47-8a4a6237ec22}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","installDate":1495103351981,"updateDate":1503413568444,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":913952,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267254	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{6b1d7070-ef81-45f7-bee1-a32d588f2a17}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","installDate":1495103351983,"updateDate":1503413568435,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":9006,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267254	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{b148f5e4-55ec-4ae5-9568-aa7be5342cdc}","location":"app-system-defaults","version":"6.6.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","installDate":1503413568512,"updateDate":1503413568512,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":716271,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505178267254	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{8af34f99-8fe5-4fff-bc61-10a91c30bd4f}","location":"app-global","version":"54.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1495103351928,"updateDate":1503413568462,"applyBackgroundUpdates":1,"skinnable":true,"size":8207,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1505178267254	addons.xpi	DEBUG	Add-on seleniumbuilder@sebuilder.com blocks e10s rollout.
+1505178267255	DeferredSave.extensions.json	DEBUG	Save changes
+1505178267255	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1505178267255	addons.xpi-utils	DEBUG	Updating add-on states
+1505178267257	addons.xpi-utils	DEBUG	Writing add-ons list
+1505178267263	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1505178267263	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1505178267266	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1505178267267	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1505178267267	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1505178267270	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1505178267271	addons.xpi	DEBUG	Registering manifest for C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\easyscreenshot@mozillaonline.com.xpi
+1505178267273	addons.xpi	DEBUG	Calling bootstrap method startup on easyscreenshot@mozillaonline.com version 2.55.3
+1505178267276	addons.xpi	DEBUG	Registering manifest for C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.D0oWnkXXcLDw\extensions\firebug@software.joehewitt.com.xpi
+1505178267277	addons.xpi	DEBUG	Calling bootstrap method startup on firebug@software.joehewitt.com version 2.0.19
+1505178267286	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1505178267287	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1505178267291	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1505178267291	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1505178267292	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1505178267295	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1505178267295	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1505178267295	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1505178267297	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1505178267301	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1505178267301	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1505178267301	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1505178267301	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1505178267301	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1505178267301	addons.manager	DEBUG	Starting provider: GMPProvider
+1505178267312	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1505178267312	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1505178267312	addons.manager	DEBUG	Starting provider: PluginProvider
+1505178267312	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1505178267312	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1505178267312	addons.manager	DEBUG	Completed startup sequence
+JavaScript error: resource://cpmanager-clv/CCLVData.jsm, line 46: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIFileURL.file]
+1505178267675	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1505178267675	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1505178267675	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1505178267688	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1505178267688	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1505178267688	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1505178267690	DeferredSave.extensions.json	DEBUG	Starting write
+1505178267838	DeferredSave.extensions.json	DEBUG	Write succeeded
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 46: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIFileURL.file]
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+1505178268781	Marionette	INFO	Listening on port 61190
+1505178269368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://www.bcbook.cn/static/javascript/prepare/prepare_video.js, line 73: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsJavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+SB: opened plugin DB connection
+SB: check plugin table exists
+SB: installing bundled plugins
+SB: finding new plugins to install
+SB: installing new plugins
+SB: finding plugins to update
+SB: updating plugins
+SB: finding plugins to uninstall
+SB: uninstalling plugins
+SB: disabling plugins
+SB: enabling plugins
+SB: loading plugins
+SB: checking plugin versions
+SB: loading plugins
+JavaScript error: chrome://seleniumbuilder3/content/html/builder/plugins.js?0.7283293640094524, line 674: TypeError: result is null
+JavaScript warning: chrome://firebug/content/debugger/clients/clientCache.js, line 39: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+???????ˑQ???J???\p: ?\Ob?R?[b0
+[GFX1-]: Attempt to create DrawTarget for invalid surface. Size(0,0) Cairo Status: 1
+???????ˑQ???J???\p: ?\Ob?R?[b0
+1505209854469	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1505209854470	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1505209854470	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1505209854472	addons.xpi	DEBUG	Calling bootstrap method shutdown on firebug@software.joehewitt.com version 2.0.19
+1505209854486	addons.xpi	DEBUG	Calling bootstrap method shutdown on easyscreenshot@mozillaonline.com version 2.55.3
+1505209854487	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1505209854488	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1505209854555	addons.manager	DEBUG	shutdown
+1505209854555	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1505209854556	addons.xpi	DEBUG	shutdown
+1505209854556	addons.xpi-utils	DEBUG	shutdown
+1505209854556	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1505209854556	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1505209854557	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1505209854558	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1505209854559	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1505209854561	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1505209854564	addons.manager	DEBUG	Async provider shutdown done
+ is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+1505148553953	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1505148553954	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1505148553954	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1505148553955	addons.xpi	DEBUG	Calling bootstrap method shutdown on firebug@software.joehewitt.com version 2.0.19
+1505148553965	addons.xpi	DEBUG	Calling bootstrap method shutdown on easyscreenshot@mozillaonline.com version 2.55.3
+1505148553966	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1505148553966	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+1505148554192	addons.manager	DEBUG	shutdown
+1505148554193	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1505148554193	addons.xpi	DEBUG	shutdown
+1505148554193	addons.xpi-utils	DEBUG	shutdown
+1505148554194	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1505148554194	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1505148554196	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1505148554197	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1505148554198	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1505148554200	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1505148554203	addons.manager	DEBUG	Async provider shutdown done
+1505148554442	Marionette	INFO	Ceased listening
+or: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+1503583861095	Marionette	INFO	New connections will no longer be accepted
+1503583861109	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1503583861111	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1503583861112	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1503583861113	addons.xpi	DEBUG	Calling bootstrap method shutdown on firebug@software.joehewitt.com version 2.0.19
+1503583861124	addons.xpi	DEBUG	Calling bootstrap method shutdown on easyscreenshot@mozillaonline.com version 2.55.3
+1503583861125	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1503583861125	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+ons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1503577136021	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+ined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+1503476068065	Marionette	INFO	New connections will no longer be accepted
+1503476068073	addons.xpi	DEBUG	Calling bootstrap method shutdown on youdao-translate@mozillaonline.com version 0.9.2
+1503476068079	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1503476068080	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1503476068081	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1503476068082	addons.xpi	DEBUG	Calling bootstrap method shutdown on firebug@software.joehewitt.com version 2.0.19
+1503476068093	addons.xpi	DEBUG	Calling bootstrap method shutdown on easyscreenshot@mozillaonline.com version 2.55.3
+1503476068094	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1503476068094	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+ons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1503474928193	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+3412636974	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{2adb981d-ba77-413c-aa8c-7605da9bb10e}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315241,"updateDate":1502838315241,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412636975	addons.xpi	DEBUG	Add-on youdao-translate@mozillaonline.com blocks e10s rollout.
+1503412636975	DeferredSave.extensions.json	DEBUG	Save changes
+1503412636975	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1503412636975	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{50d45a92-b4c0-4069-90ee-21bea4194946}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315721,"updateDate":1502838315721,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":863063,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412636976	addons.xpi	DEBUG	Add-on youdao-translate@mozillaonline.com blocks e10s rollout.
+1503412636976	DeferredSave.extensions.json	DEBUG	Save changes
+1503412636976	addons.xpi-utils	DEBUG	Make addon app-system-defaults:followonsearch@mozilla.com visible
+1503412636976	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{37a492a3-fe51-4e1d-a076-0d92e38a618e}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315285,"updateDate":1502838315285,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412636976	addons.xpi	DEBUG	Add-on youdao-translate@mozillaonline.com blocks e10s rollout.
+1503412636976	DeferredSave.extensions.json	DEBUG	Save changes
+1503412636976	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1503412636977	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{74693263-6d5f-4991-a849-c9a1471ee0b3}","location":"app-system-defaults","version":"10.10.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838318155,"updateDate":1502838318155,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":651762,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412636977	addons.xpi	DEBUG	Add-on youdao-translate@mozillaonline.com blocks e10s rollout.
+1503412636977	DeferredSave.extensions.json	DEBUG	Save changes
+1503412636977	addons.xpi-utils	DEBUG	Make addon app-system-defaults:shield-recipe-client@mozilla.org visible
+1503412636977	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{52faa2f4-db8a-4c26-bb83-a0dac3be73b4}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315538,"updateDate":1502838315538,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412636978	addons.xpi	DEBUG	Add-on youdao-translate@mozillaonline.com blocks e10s rollout.
+1503412636978	DeferredSave.extensions.json	DEBUG	Save changes
+1503412636978	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1503412636978	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{7e9d736f-4f42-445c-bce9-9fb774cad744}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315329,"updateDate":1502838315329,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412636978	addons.xpi	DEBUG	Add-on youdao-translate@mozillaonline.com blocks e10s rollout.
+1503412636979	DeferredSave.extensions.json	DEBUG	Save changes
+1503412636979	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1503412636979	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{7e4b71df-599b-45d6-a226-c81808869fd6}","location":"app-global","version":"55.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315261,"updateDate":1502838315261,"applyBackgroundUpdates":1,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":7559,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1503412636979	addons.xpi	DEBUG	Add-on youdao-translate@mozillaonline.com blocks e10s rollout.
+1503412636980	DeferredSave.extensions.json	DEBUG	Save changes
+1503412636980	addons.xpi	DEBUG	Updating XPIState for {"id":"cehomepage@mozillaonline.com","syncGUID":"{862dacc3-0969-4b2d-ab29-93fea06e905e}","location":"app-profile","version":"1.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/cehomepage-iii/update.rdf?version=%ITEM_VERSION%&pt=%CEHP_PREF_TRACKING%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCd77P/ko6LTPMWcIjA5+0AJ7Y2w1CA31UYNTLA6OMwc9kcvO407SrE649A1ZUOi8bDPvJ6/KqVU9zPmv1XY1SjpEF8RlXP5SQ4KXirH4wnBk94cklYJTeDVuGOvCZS4KNazsjibERhRE7oGxg3X+rw+Ifu14AmAqXm4lyMrYIt/QIDAQAB","optionsURL":"chrome://ntab/content/options.xul","optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Homepage","description":"Customizied Home Page for Firefox","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Leding Li","Ray Cheung","Xuan Xie","jiangwei1212@gmail.com","Wennan Zhu","Amax Guan"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503412367373,"updateDate":1503412634771,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EBgFaHKfXJ4L\\extensions\\cehomepage@mozillaonline.com","skinnable":false,"size":784501,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"火狐主页","description":"火狐定制主页，包括最近访问页面、最常访问页面以及新标签页等","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/"}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412636980	addons.xpi	DEBUG	Updating XPIState for {"id":"cpmanager@mozillaonline.com","syncGUID":"{408b3c6c-814a-4857-8377-71cae1b7fe73}","location":"app-profile","version":"2.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/cpmanager/update.rdf?version=%ITEM_VERSION%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2zWwTHIR23xreMABqMJXj1YrFowjiaBieTNqC2bE9PImSaMBxmYqrQ/UryquunGB0LJVE6tzzdioK9KFp+8ZO4eZL0fpxA9I+8mp+g3MTwqMVZD5ma3qwEGDngATaJwlcWY5xmrWcWNUgogP7n6JYuw0Giuc7crDNK3n1/nCbhwIDAQAB","optionsURL":"chrome://cmsafeflag/content/options.xul","optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Addons Manager","description":"To manage the addons package in Firefox.","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Conchshell","Ray Cheung","Xuan Xie","Jiao Feng","Rui You"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503412367677,"updateDate":1503412634766,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EBgFaHKfXJ4L\\extensions\\cpmanager@mozillaonline.com.xpi","skinnable":false,"size":492668,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"附加组件管理器","description":"用来管理火狐的附加组件系统。","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/"}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412636980	addons.xpi	DEBUG	Updating XPIState for {"id":"easyscreenshot@mozillaonline.com","syncGUID":"{4eda6ee1-64f3-406b-822a-0076b017de88}","location":"app-profile","version":"2.55","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Easy Screenshot","description":"You can capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file.","creator":"Mozilla Online","homepageURL":"http://www.firefox.com.cn/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503412368503,"updateDate":1503412634767,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EBgFaHKfXJ4L\\extensions\\easyscreenshot@mozillaonline.com.xpi","skinnable":false,"size":175130,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"网页截图","description":"方便的截图工具，支持任意选定区域截图、全网页截图等多种截图方式，并提供必要的图片编辑功能。","creator":"Mozilla Online","homepageURL":"http://www.firefox.com.cn/"},{"locales":["zh-TW"],"name":"網頁截圖","description":"方便的截圖工具，支持任意選定區域截圖、全網頁截圖等多種截圖方式，并提供必要的圖片編輯功能。","creator":"Mozilla Online","homepageURL":null}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":true,"mpcOptedOut":false,"userPermissions":null,"icons":{"32":"icon.png","48":"icon.png","64":"icon64.png"},"iconURL":null,"icon64URL":null}
+1503412636980	addons.xpi	DEBUG	Updating XPIState for {"id":"tabtweak@mozillaonline.com","syncGUID":"{4efb6c80-2d11-4e7f-8a0c-09fba9bb1d83}","location":"app-profile","version":"4.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/tabtweak/update.rdf?version=%ITEM_VERSION%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAvclCQ8nXMVB+UZpw2bLa7Qep6UO1YV6quUpw0RBDQgh5BMX6d4VaW/ZwMts7dFRA/7+yfjr3DTG036ldlRdnho6EztgDZKpLuU5tEORc9JfVspqb1Yw7ePRrKuc0vPyq1+2f1eEuXmikK3DGImd2lL9AoNYwHj7/+ERhntRQsQIDAQAB","optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Tab Tweak","description":"Tweak tab browsing by setting default behaviors.","creator":"Mozilla Online Limited","homepageURL":"http://firefox.com.cn","contributors":["Rui You"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503412368514,"updateDate":1503412634768,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EBgFaHKfXJ4L\\extensions\\tabtweak@mozillaonline.com.xpi","skinnable":false,"size":21717,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[{"locales":["zh-CN"],"name":"标签页优化","description":"设置打开链接和关闭标签的默认行为，方便使用。","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Rui You"]}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"35.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{"32":"icon.png","48":"icon.png","64":"icon64.png"},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"youdao-translate@mozillaonline.com","syncGUID":"{f48d2d94-8ee9-42ad-93e2-5725e9a75fac}","location":"app-profile","version":"0.9.2","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/youdao-translate/update.rdf","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXo3R/qV/Q2vBn105LXSXZ9y3/BXkWO42xWtSUSqgCBPjQfroKpY6B7j9imipJFS9nOQ//LePXz8noaRNyi0ZWJITuhFV1u7mwn89NLiUWUS4irJ6SBKve00xNOagLk/ja0a8u9zH57dCfjj2W6iTO4RI0N7zQ1mK7iQbXvtabHQIDAQAB","optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Webpage Translator","description":"Translate English webpage into Chinese using Netease Youdao webpage translator 2.0. Provide full-text translation, and isolated words translation based on the level of your English skill.","creator":"Mozilla Online Limited","homepageURL":"http://firefox.com.cn"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1503412368527,"updateDate":1503412634770,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EBgFaHKfXJ4L\\extensions\\youdao-translate@mozillaonline.com.xpi","skinnable":false,"size":103653,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"网页翻译","description":"使用火狐浏览英文网页，帮您一键翻译成中文，阅读无障碍。使用有道网页翻译2.0，您既可以选择全文翻译，也能按照您的英文水平、只翻译相应部分的词汇，阅读理解更方便。","creator":"Mozilla Online Ltd.","homepageURL":"http://www.firefox.com.cn/"}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"32.0","maxVersion":"39.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":1,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{c8933ac9-aa01-44f8-be7a-f7b44a289f7d}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315229,"updateDate":1502838315229,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"clicktoplay-rollout@mozilla.org","syncGUID":"{62f07444-9e4b-4972-aa59-43e884838e34}","location":"app-system-defaults","version":"1.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Click-to-Play staged rollout","description":"Staged rollout for Click-to-Play Flash.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315229,"updateDate":1502838315229,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\clicktoplay-rollout@mozilla.org.xpi","skinnable":false,"size":5621,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{2adb981d-ba77-413c-aa8c-7605da9bb10e}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315241,"updateDate":1502838315241,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{50d45a92-b4c0-4069-90ee-21bea4194946}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315721,"updateDate":1502838315721,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":863063,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{37a492a3-fe51-4e1d-a076-0d92e38a618e}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315285,"updateDate":1502838315285,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{74693263-6d5f-4991-a849-c9a1471ee0b3}","location":"app-system-defaults","version":"10.10.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838318155,"updateDate":1502838318155,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":651762,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{52faa2f4-db8a-4c26-bb83-a0dac3be73b4}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315538,"updateDate":1502838315538,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{7e9d736f-4f42-445c-bce9-9fb774cad744}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315329,"updateDate":1502838315329,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503412637022	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{7e4b71df-599b-45d6-a226-c81808869fd6}","location":"app-global","version":"55.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502838315261,"updateDate":1502838315261,"applyBackgroundUpdates":1,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":7559,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1503412637023	addons.xpi	DEBUG	Add-on youdao-translate@mozillaonline.com blocks e10s rollout.
+1503412637023	DeferredSave.extensions.json	DEBUG	Save changes
+1503412637023	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1503412637023	addons.xpi-utils	DEBUG	Updating add-on states
+1503412637024	DeferredSave.extensions.json	DEBUG	Starting write
+1503412637072	Marionette	INFO	Listening on port 58051
+1503412637072	DeferredSave.extensions.json	DEBUG	Write succeeded
+1503412637079	Marionette	INFO	Listening on port 58051
+1503412638081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://www.wuhaodaoxue.com/static/javascript/prepare/prepare_video.js, line 25: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://www.wuhaodaoxue.com/static/javascript/prepare/prepare_video.js, line 25: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+JavaScript error: resource://cmsafeflag/SkipSBData.jsm, line 85: TypeError: aFile is undefined
+1503412670774	Marionette	INFO	New connections will no longer be accepted
+1503412670800	addons.xpi	DEBUG	Calling bootstrap method shutdown on youdao-translate@mozillaonline.com version 0.9.2
+1503412670809	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1503412670809	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 55.1
+1503412670811	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 10.10.0
+1503412670812	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.1
+1503412670813	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1503412670819	addons.xpi	DEBUG	Calling bootstrap method shutdown on easyscreenshot@mozillaonline.com version 2.55
+1503412670819	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 2.0
+1503412670820	addons.xpi	DEBUG	Calling bootstrap method shutdown on clicktoplay-rollout@mozilla.org version 1.2
+1503412670820	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+03404131914	addons.xpi	DEBUG	Updating XPIState for {"id":"cehomepage@mozillaonline.com","syncGUID":"{e4e1bc1c-401e-4654-b0ea-eee23b28bbac}","location":"app-profile","version":"1.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/cehomepage-iii/update.rdf?version=%ITEM_VERSION%&pt=%CEHP_PREF_TRACKING%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCd77P/ko6LTPMWcIjA5+0AJ7Y2w1CA31UYNTLA6OMwc9kcvO407SrE649A1ZUOi8bDPvJ6/KqVU9zPmv1XY1SjpEF8RlXP5SQ4KXirH4wnBk94cklYJTeDVuGOvCZS4KNazsjibERhRE7oGxg3X+rw+Ifu14AmAqXm4lyMrYIt/QIDAQAB","optionsURL":"chrome://ntab/content/options.xul","optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Homepage","description":"Customizied Home Page for Firefox","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Leding Li","Ray Cheung","Xuan Xie","jiangwei1212@gmail.com","Wennan Zhu","Amax Guan"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502440549966,"updateDate":1503404127800,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\cehomepage@mozillaonline.com","skinnable":false,"size":784501,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"火狐主页","description":"火狐定制主页，包括最近访问页面、最常访问页面以及新标签页等","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/"}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131915	addons.xpi	DEBUG	Updating XPIState for {"id":"cpmanager@mozillaonline.com","syncGUID":"{8760a4d4-8242-4673-835a-4213d59b22b4}","location":"app-profile","version":"2.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/cpmanager/update.rdf?version=%ITEM_VERSION%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2zWwTHIR23xreMABqMJXj1YrFowjiaBieTNqC2bE9PImSaMBxmYqrQ/UryquunGB0LJVE6tzzdioK9KFp+8ZO4eZL0fpxA9I+8mp+g3MTwqMVZD5ma3qwEGDngATaJwlcWY5xmrWcWNUgogP7n6JYuw0Giuc7crDNK3n1/nCbhwIDAQAB","optionsURL":"chrome://cmsafeflag/content/options.xul","optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Addons Manager","description":"To manage the addons package in Firefox.","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Conchshell","Ray Cheung","Xuan Xie","Jiao Feng","Rui You"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502440550181,"updateDate":1503404127680,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\cpmanager@mozillaonline.com.xpi","skinnable":false,"size":492668,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"附加组件管理器","description":"用来管理火狐的附加组件系统。","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/"}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131915	addons.xpi	DEBUG	Updating XPIState for {"id":"tabtweak@mozillaonline.com","syncGUID":"{4b3d66ac-e83a-4e12-a17f-b55cb48dbc22}","location":"app-profile","version":"4.55","type":"extension","internalName":null,"updateURL":"http://g-fox.cn/chinaedition/addons/tabtweak/update.rdf?version=%ITEM_VERSION%","updateKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAvclCQ8nXMVB+UZpw2bLa7Qep6UO1YV6quUpw0RBDQgh5BMX6d4VaW/ZwMts7dFRA/7+yfjr3DTG036ldlRdnho6EztgDZKpLuU5tEORc9JfVspqb1Yw7ePRrKuc0vPyq1+2f1eEuXmikK3DGImd2lL9AoNYwHj7/+ERhntRQsQIDAQAB","optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Tab Tweak","description":"Tweak tab browsing by setting default behaviors.","creator":"Mozilla Online Limited","homepageURL":"http://firefox.com.cn","contributors":["Rui You"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502440550807,"updateDate":1503404127797,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\tabtweak@mozillaonline.com.xpi","skinnable":false,"size":21717,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[{"locales":["zh-CN"],"name":"标签页优化","description":"设置打开链接和关闭标签的默认行为，方便使用。","creator":"Mozilla Online Limited","homepageURL":"http://www.firefox.com.cn/","contributors":["Rui You"]}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"35.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{"32":"icon.png","48":"icon.png","64":"icon64.png"},"iconURL":null,"icon64URL":null}
+1503404131915	addons.xpi	DEBUG	Updating XPIState for {"id":"firebug@software.joehewitt.com","syncGUID":"{a6aff43f-3a35-4c81-963f-579f29e36115}","location":"app-profile","version":"2.0.19","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firebug","description":"Web Development Evolved. Firebug is free and open source software distributed under the BSD License.","creator":"Joe Hewitt","homepageURL":"http://www.getfirebug.com/","translators":["Leszek(teo)Zyczkowski (pl-PL)","markh (nl)","peter3 (sv-SE)","AlleyKat (da-DK)","Hector Zhao, lovelywcm (zh-CN)","Lukas Kucharczyk, Michal Kec (cs-CZ)","Team erweiterungen.de, ReinekeFux, Benedikt Langens, Sebastian Zartner (de-DE)","l0stintranslation, gonzalopirobutirro, Luigi Grilli (it-IT)","alexxed (ro-RO)","Nicolas Martin, Franck Marcia (fr-FR)","gLes (hu-HU)","Xavi Ivars - Softcatala (ca)","gezmen (tr-TR)","eternoendless (es-AR)","Dark Preacher (ru)","Tiago Oliveira, Diego de Carvalho Zimmermann, Alexandre Rapaki (pt-BR)","Juan Botias, Alvaro G. Vicario (es-ES)","Andriy Zhouck (uk-UA)","Hisateru Tanaka, k2jp (ja-JP)","Mohsen Shadroo (fa-IR)","Eduard Babayan (hy-AM)","Helder Magalhaes (pt-PT)","Tomaz Macus (sl-SI)","Stoyan Stefanov, Alexander Shopov (bg)","Kristjan Bjarni Guomundsson (is-IS)","NGUYEN Manh Hung (vi-VN)","Bwah (hr-HR)","Sonickydon (el)","David Gonzales (es)","DakSrbija (sr)","bootleq (zh-TW)","Asier Iturralde Sarasola, Julen Irazoki Oteiza (eu)"],"contributors":["John J. Barton (IBM Almaden)","Jan Odvarko (Mozilla Corp.)","Max Stepanov (Aptana Inc.)","Rob Campbell (Mozilla Corp.)","Hans Hillen (Paciello Group, Mozilla)","Curtis Bartley (Mozilla Corp.)","Mike Collins (IBM Almaden)","Kevin Decker","Mike Ratcliffe (Mozilla Corp.)","Hernan Rodriguez Colmeiro","Austin Andrews","Christoph Dorn","Steven Roussey (Illuminations for Developers)","Sebastian Zartner","Harutyun Amirjanyan","Simon Lindholm","Stampolidis Anastasios","Joe Walker (Mozilla Corp.)","Vladimir Zhuravlev","Farshid Beheshti","Leon Sorokin","Florent Fayolle","Hector Zhao","Bharath Thiruveedula","Nathan Mische","Belakhdar Abdeldjalil","Jakob Kaltenbrunner"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502523968568,"updateDate":1503404127702,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\firebug@software.joehewitt.com.xpi","skinnable":false,"size":9681994,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"30.0a1","maxVersion":"54.0"},{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"30.0a1","maxVersion":"54.0"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":"chrome://firebug/skin/firebugBig.png","icon64URL":null}
+1503404131915	addons.xpi	DEBUG	Updating XPIState for {"id":"support@wildfire.ai","syncGUID":"{e331081f-2015-4926-b85f-86243d094f29}","location":"app-profile","version":"1.2.4","type":"webextension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"Wildfire","description":"Record browser actions then replay immediately. Craft your own custom automation workflows.","creator":"wildfire.ai","developers":null,"translators":null,"contributors":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502524310076,"updateDate":1503404127797,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\support@wildfire.ai.xpi","skinnable":false,"size":41298730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"48.0","maxVersion":null}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":{"origins":["http://*/*","https://*/*","<all_urls>","http://*/*","https://*/*"],"apis":[],"permissions":["alarms","clipboardRead","clipboardWrite","bookmarks","contextMenus","downloads","history","nativeMessaging","browsingData","proxy","webRequest","webRequestBlocking","cookies","tabs","webNavigation","storage","notifications"]},"icons":{"16":"icon-16.png","32":"icon-32.png","48":"icon-48.png","128":"icon-128.png"},"iconURL":null,"icon64URL":null}
+1503404131915	addons.xpi	DEBUG	Updating XPIState for {"id":"test-results_selenium-ide@Samit.Badle","syncGUID":"{188cb26d-ab10-40ac-9f5d-0ee5de8fbd9b}","location":"app-profile","version":"2.0.1-signed.1-signed","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Test Results (Selenium IDE)","description":"A plugin for Selenium-IDE to save the test results for the test suite and included test cases","creator":"Samit Badle","homepageURL":"http://blog.reallysimplethoughts.com/my-selenium-ide-plugins/test-results/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502524544042,"updateDate":1503404127798,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\test-results_selenium-ide@Samit.Badle.xpi","skinnable":false,"size":34760,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"17.*","maxVersion":"35.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131915	addons.xpi	DEBUG	Updating XPIState for {"id":"seleniumbuilder@sebuilder.com","syncGUID":"{b3d1d3d7-6942-493e-81fb-91cc92ac0649}","location":"app-profile","version":"3.0.7","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Selenium Builder","description":"Create automated cross-browser functional tests easily and quickly.","creator":null,"homepageURL":"http://www.sebuilder.com","developers":["David Stark","Sauce Labs"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502524415414,"updateDate":1503404127885,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\seleniumbuilder@sebuilder.com","skinnable":false,"size":1455812,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0","maxVersion":"44.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":"chrome://seleniumbuilder3/content/html/img/builder-logo.png","icon64URL":null}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"selenium_ide_buttons@egarracingteam.com.ar","syncGUID":"{976c3fe3-4a45-4054-8760-d7175d8dd6d9}","location":"app-profile","version":"1.2.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":"chrome://selenium_ide_button/content/options.xul","optionsType":"2","aboutURL":null,"defaultLocale":{"name":"Selenium IDE Button","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502524544571,"updateDate":1503404127705,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\selenium_ide_buttons@egarracingteam.com.ar.xpi","skinnable":false,"size":30776,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["es-ES"],"name":"Selenium IDE Button","description":"Un boton para abrir Selenium IDE.","creator":"Alejandro Brizuela","homepageURL":null,"translators":["Santiago Suarez Ordonez"]},{"locales":["en-US"],"name":"Selenium IDE Button","description":"One button to open Selenium IDE.","creator":"Alejandro Brizuela","homepageURL":null,"translators":["Santiago Suarez Ordonez"]}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"13.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":"chrome://selenium_ide_button/content/selenium-ide-button-logo_48.png","icon64URL":"chrome://selenium_ide_button/content/selenium-ide-button-logo_64.png"}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"selbench@chris.noe","syncGUID":"{a7508d5c-acc5-4270-9645-9a88dc02e983}","location":"app-profile","version":"1.1.1-signed.1-signed","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://selbenchSeleExten/content/about.xul","defaultLocale":{"name":"Selenium IDE - SelBench","description":"A script/extension testing extension for Selenium-IDE","creator":"Chris Noe","homepageURL":"http://refactoror.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502524544584,"updateDate":1503404127704,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\selbench@chris.noe.xpi","skinnable":false,"size":29547,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"17.0","maxVersion":"36.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":1,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":"chrome://selbenchSeleExten/skin/icon.png","icon64URL":null}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"FireXPath@pierre.tholence.com","syncGUID":"{452575ce-402b-4151-b87e-17ebcb2489e1}","location":"app-profile","version":"0.9.7.1.1-signed.1-signed","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"FirePath","description":"FirePath is a Firebug extension that adds a development tool to edit, inspect and generate XPath 1.0 expressions, CSS 3 selectors and JQuery selectors.","creator":"Pierre Tholence","homepageURL":null,"contributors":["David Rees"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502524544597,"updateDate":1503404127703,"applyBackgroundUpdates":1,"bootstrap":false,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\FireXPath@pierre.tholence.com.xpi","skinnable":false,"size":168435,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"34.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":"chrome://firepath/content/FirePath.png","icon64URL":null}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"easyscreenshot@mozillaonline.com","syncGUID":"{2aaba734-f97f-4f46-94bb-4c9174feab69}","location":"app-profile","version":"2.55.3","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Easy Screenshot","description":"You can capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file.","creator":"Mozilla Online","homepageURL":"http://www.firefox.com.cn/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502440550795,"updateDate":1503404127682,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j6L7fcnWzH34\\extensions\\easyscreenshot@mozillaonline.com.xpi","skinnable":false,"size":172562,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[{"locales":["zh-CN"],"name":"网页截图","description":"方便的截图工具，支持任意选定区域截图、全网页截图等多种截图方式，并提供必要的图片编辑功能。","creator":"Mozilla Online","homepageURL":"http://www.firefox.com.cn/"},{"locales":["zh-TW"],"name":"網頁截圖","description":"方便的截圖工具，支持任意選定區域截圖、全網頁截圖等多種截圖方式，并提供必要的圖片編輯功能。","creator":"Mozilla Online","homepageURL":null}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":true,"mpcOptedOut":false,"userPermissions":null,"icons":{"32":"icon.png","48":"icon.png","64":"icon64.png"},"iconURL":null,"icon64URL":null}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{c8382cdc-3a50-4e2d-a981-c061ed383c5a}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316042628,"updateDate":1502960832381,"applyBackgroundUpdates":1,"bootstrap":true,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"clicktoplay-rollout@mozilla.org","syncGUID":"{747caf65-fccd-47fd-957e-b0bbd1d8c930}","location":"app-system-defaults","version":"1.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Click-to-Play staged rollout","description":"Staged rollout for Click-to-Play Flash.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316042629,"updateDate":1502960832377,"applyBackgroundUpdates":1,"bootstrap":true,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\features\\clicktoplay-rollout@mozilla.org.xpi","skinnable":false,"size":5621,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{3be8e8a8-e094-481e-b918-8c3be1919937}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316042640,"updateDate":1502960832371,"applyBackgroundUpdates":1,"bootstrap":true,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{c0ef002c-98d9-495c-acb6-fffd3a16a163}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316043129,"updateDate":1502960832367,"applyBackgroundUpdates":1,"bootstrap":true,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":863063,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131916	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{40dbe6a1-6310-4858-973b-03bc2b16ea40}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316042680,"updateDate":1502316042680,"applyBackgroundUpdates":1,"bootstrap":true,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131917	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{6ae1b681-5bcc-4a64-be8c-8df3a74e087d}","location":"app-system-defaults","version":"10.10.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316045667,"updateDate":1502316045667,"applyBackgroundUpdates":1,"bootstrap":true,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":651762,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131917	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{e3cfd784-5ad7-40d5-a03a-8475665616ed}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316042945,"updateDate":1502960832344,"applyBackgroundUpdates":1,"bootstrap":true,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131917	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{f861fd34-263f-474b-b8ff-1a9c5d94f375}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316042725,"updateDate":1502960832339,"applyBackgroundUpdates":1,"bootstrap":true,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1503404131917	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{c8f7d0ff-738d-417e-a2a2-bd4dc74ea92e}","location":"app-global","version":"55.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502316042666,"updateDate":1502960832401,"applyBackgroundUpdates":1,"path":"d:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":7559,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1503404131918	addons.xpi	DEBUG	Add-on test-results_selenium-ide@Samit.Badle blocks e10s rollout.
+1503404131918	DeferredSave.extensions.json	DEBUG	Save changes
+1503404131918	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1503404131919	addons.xpi-utils	DEBUG	Updating add-on states
+1503404131919	DeferredSave.extensions.json	DEBUG	Starting timer
+1503404132021	DeferredSave.extensions.json	DEBUG	Starting write
+1503404132103	DeferredSave.extensions.json	DEBUG	Write succeeded
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+1503404398948	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1503404398949	addons.xpi	DEBUG	Calling bootstrap method shutdown on support@wildfire.ai version 1.2.4
+1503404398959	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 55.1
+1503404398962	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 10.10.0
+1503404398963	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.1
+1503404398963	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1503404398964	addons.xpi	DEBUG	Calling bootstrap method shutdown on firebug@software.joehewitt.com version 2.0.19
+1503404398972	addons.xpi	DEBUG	Calling bootstrap method shutdown on easyscreenshot@mozillaonline.com version 2.55.3
+1503404398972	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 2.0
+1503404398973	addons.xpi	DEBUG	Calling bootstrap method shutdown on clicktoplay-rollout@mozilla.org version 1.2
+1503404398974	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1503404399138	addons.manager	DEBUG	shutdown
+1503404399139	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1503404399139	addons.xpi	DEBUG	shutdown
+1503404399139	addons.xpi-utils	DEBUG	shutdown
+1503404399140	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1503404399140	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1503404399141	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1503404399141	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1503404399142	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1503404399144	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1503404399148	addons.manager	DEBUG	Async provider shutdown done
+.0
+1503403612396	addons.xpi	DEBUG	Calling bootstrap method shutdown on clicktoplay-rollout@mozilla.org version 1.2
+1503403612396	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 695: Error: WebExtension context not found!
+pen/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+Promise resolved while context is inactive
+Promise resolved while context is inactive
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/ADMINI~1/AppData/Local/Temp/rust_mozprofile.GNquFuSMT8rR/extensions/cehomepage@mozillaonline.com/components/mozCNUtils.js, line 253: TypeError: Argument 1 of MutationObserver.observe is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+1503023517234	Marionette	INFO	New connections will no longer be accepted
+1503023517254	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1503023517255	addons.xpi	DEBUG	Calling bootstrap method shutdown on support@wildfire.ai version 1.2.4
+1503023517265	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 55.1
+1503023517268	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 10.10.0
+1503023517268	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.1
+1503023517269	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1503023517270	addons.xpi	DEBUG	Calling bootstrap method shutdown on firebug@software.joehewitt.com version 2.0.19
+1503023517277	addons.xpi	DEBUG	Calling bootstrap method shutdown on easyscreenshot@mozillaonline.com version 2.55
+1503023517277	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 2.0
+1503023517278	addons.xpi	DEBUG	Calling bootstrap method shutdown on clicktoplay-rollout@mozilla.org version 1.2
+1503023517278	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+on 1.2
+1502974284541	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+ed
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+Promise resolved while context is inactive
+Promise resolved while context is inactive
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+Promise resolved while context is inactive
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 776: TypeError: Argument 1 of StructuredCloneHolder.deserialize is not an object.
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+JavaScript error: https://assets.alicdn.com/g/security/umscript/3.0.11/um.js, line 1: TypeError: c.localDescription is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+Promise resolved while context is inactive
+JavaScript error: http://www.wuhaodaoxue.com/static/javascript/me/me.js, line 1283: TypeError: e.target.tagByName is undefined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 317: TypeError: context.contentWindow is null
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+1502892808618	Marionette	INFO	New connections will no longer be accepted
+1502892808647	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1502892808649	addons.xpi	DEBUG	Calling bootstrap method shutdown on support@wildfire.ai version 1.2.4
+1502892808665	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 55.1
+1502892808668	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 10.10.0
+1502892808669	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.1
+1502892808670	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1502892808674	addons.xpi	DEBUG	Calling bootstrap method shutdown on firebug@software.joehewitt.com version 2.0.19
+1502892808694	addons.xpi	DEBUG	Calling bootstrap method shutdown on easyscreenshot@mozillaonline.com version 2.55
+1502892808694	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 2.0
+1502892808694	addons.xpi	DEBUG	Calling bootstrap method shutdown on clicktoplay-rollout@mozilla.org version 1.2
+1502892808695	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
